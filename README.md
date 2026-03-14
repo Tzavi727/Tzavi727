@@ -46,6 +46,6 @@ Optimization And Automation is The Way.
 </p>
 
 <p align="left">
-  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tzavi727&theme=github" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tzavi727&theme=github_dark" />
   <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tzavi727&theme=github_dark" />
 </p>
