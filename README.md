@@ -9,7 +9,14 @@
   <img src="https://img.shields.io/badge/JAVA-181717?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-<div align="left">
+<p align="left">
+  <a href="https://x.com/Tzavi727">
+    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/937057915804729408">
+    <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
