@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/TzaviBanner.png" width="100%" />
+  <img src="https://i.imgur.com/UkgMkRF.png" width="100%" />
 </p>
 
 <p align="left">
@@ -34,10 +34,12 @@ Optimization And Automation is The Way.
 <br />
 
 <p align="left">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tzavi727&theme=github_dark" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tzavi727&theme=swift" />
+   <img height="153" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tzavi727&theme=swift&utcOffset=-3">
 </p>
 
 <p align="left">
-  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tzavi727&theme=github_dark" />
-  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tzavi727&theme=github_dark" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tzavi727&theme=swift" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tzavi727&theme=swift" />
+  <img height="153" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tzavi727&theme=swift" />
 </p>
